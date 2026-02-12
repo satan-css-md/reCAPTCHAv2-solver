@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "generated": "2026-02-12T01:47:14.756842",
+    "total_sessions": 6,
+    "total_challenges": 3877
+  },
+  "sessions": [
+    {
+      "name": "Manual_test_with_cookies",
+      "total": 225,
+      "types": {
+        "Type2": 81,
+        "dynamic": 94,
+        "SOLVED": 50
+      },
+      "categories": {
+        "stairs": 8,
+        "fire hydrant": 16,
+        "Traffic Lights": 13,
+        "motorcycle": 33,
+        "bicycles": 21,
+        "bus": 42,
+        "cars": 29,
+        "SOLVED": 50,
+        "crosswalks": 13
+      }
+    },
+    {
+      "name": "Session2",
+      "total": 422,
+      "types": {
+        "Type2": 262,
+        "Type1": 21,
+        "dynamic": 120,
+        "SOLVED": 19
+      },
+      "categories": {
+        "bicycles": 70,
+        "crosswalks": 36,
+        "traffic lights": 58,
+        "bus": 46,
+        "cars": 22,
+        "motorcycles": 103,
+        "a fire hydrant": 12,
+        "buses": 24,
+        "captcha solved": 19,
+        "bridges": 6,
+        "palm trees": 3,
+        "fire hydrants": 6,
+        "stairs": 15,
+        "taxis": 2
+      }
+    },
+    {
+      "name": "Session20",
+      "total": 469,
+      "types": {
+        "dynamic": 218,
+        "Type2": 179,
+        "SOLVED": 50,
+        "Type1": 22
+      },
+      "categories": {
+        "bicycles": 66,
+        "motorcycles": 74,
+        "traffic lights": 29,
+        "bus": 85,
+        "cars": 60,
+        "captcha solved": 50,
+        "stairs": 15,
+        "bridges": 2,
+        "crosswalks": 29,
+        "a fire hydrant": 31,
+        "buses": 17,
+        "taxis": 2,
+        "fire hydrants": 7,
+        "chimneys": 1,
+        "tractors": 1
+      }
+    },
+    {
+      "name": "Session6",
+      "total": 2043,
+      "types": {
+        "Type2": 1602,
+        "SOLVED": 101,
+        "dynamic": 250,
+        "Type1": 90
+      },
+      "categories": {
+        "bicycles": 391,
+        "motorcycles": 623,
+        "traffic lights": 266,
+        "fire hydrants": 79,
+        "buses": 160,
+        "captcha solved": 101,
+        "a fire hydrant": 54,
+        "crosswalks": 121,
+        "cars": 75,
+        "stairs": 82,
+        "chimneys": 5,
+        "bus": 62,
+        "taxis": 11,
+        "tractors": 5,
+        "bridges": 8
+      }
+    },
+    {
+      "name": "Session7",
+      "total": 536,
+      "types": {
+        "dynamic": 145,
+        "Type2": 299,
+        "SOLVED": 50,
+        "Type1": 42
+      },
+      "categories": {
+        "cars": 86,
+        "motorcycles": 152,
+        "bicycles": 73,
+        "a fire hydrant": 19,
+        "captcha solved": 50,
+        "traffic lights": 50,
+        "buses": 25,
+        "bus": 11,
+        "crosswalks": 41,
+        "stairs": 13,
+        "taxis": 2,
+        "chimneys": 1,
+        "bridges": 6,
+        "fire hydrants": 6,
+        "tractors": 1
+      }
+    },
+    {
+      "name": "Session9",
+      "total": 182,
+      "types": {
+        "Type2": 66,
+        "SOLVED": 49,
+        "Type1": 63,
+        "dynamic": 4
+      },
+      "categories": {
+        "motorcycles": 34,
+        "traffic lights": 16,
+        "captcha solved": 49,
+        "bicycles": 23,
+        "buses": 5,
+        "cars": 20,
+        "crosswalks": 7,
+        "stairs": 9,
+        "bus": 6,
+        "bridges": 10,
+        "tractors": 1,
+        "fire hydrants": 2
+      }
+    }
+  ],
+  "challenge_types": {
+    "SOLVED": 319,
+    "Type1": 238,
+    "Type2": 2489,
+    "dynamic": 831
+  },
+  "categories": {
+    "motorcycles": 986,
+    "bicycles": 644,
+    "traffic lights": 419,
+    "cars": 292,
+    "captcha solved": 269,
+    "bus": 252,
+    "crosswalks": 247,
+    "buses": 231,
+    "stairs": 142,
+    "a fire hydrant": 116,
+    "fire hydrants": 100,
+    "SOLVED": 50,
+    "motorcycle": 33,
+    "bridges": 32,
+    "taxis": 17,
+    "fire hydrant": 16,
+    "Traffic Lights": 13,
+    "tractors": 8,
+    "chimneys": 7,
+    "palm trees": 3
+  },
+  "statistics": {
+    "avg_challenges_per_session": 646.1666666666666,
+    "success_rate": 100.0,
+    "total_unique_types": 4,
+    "total_unique_categories": 20
+  }
+}

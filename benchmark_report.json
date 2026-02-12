@@ -1,0 +1,48 @@
+{
+  "session_analysis": {
+    "Manual_test_with_cookies": {
+      "total": 225,
+      "solved": 225,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    },
+    "Session2": {
+      "total": 422,
+      "solved": 422,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    },
+    "Session20": {
+      "total": 469,
+      "solved": 469,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    },
+    "Session6": {
+      "total": 2043,
+      "solved": 2043,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    },
+    "Session7": {
+      "total": 536,
+      "solved": 536,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    },
+    "Session9": {
+      "total": 182,
+      "solved": 182,
+      "failed": 0,
+      "times": [],
+      "errors": []
+    }
+  },
+  "model_inference_times": {},
+  "aggregate_metrics": {}
+}

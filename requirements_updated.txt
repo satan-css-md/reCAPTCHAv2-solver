@@ -1,0 +1,17 @@
+matplotlib>=3.8.0
+njord>=0.0.2
+numpy>=1.26.0
+opencv-python>=4.8.0
+pandas>=2.1.0
+Pillow>=10.0.0
+requests>=2.31.0
+scipy>=1.11.0
+seaborn>=0.13.0
+selenium>=4.15.0
+shap>=0.44.0
+tensorflow>=2.14.0
+torch>=2.1.0
+torchvision>=0.16.0
+tqdm>=4.66.0
+ultralytics>=8.0.200
+webdriver-manager>=4.0.0
